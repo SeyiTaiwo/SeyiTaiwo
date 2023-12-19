@@ -4,7 +4,7 @@
 
 - <b>Identiy Access Management with ActiveDirectory (AlgoExpert)</b>
   - [Active Directory Tutorial](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Hello World](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Hello World](https://github.com/SeyiTaiwo/IntroductionC-)
 
 <h2>📄 Certification:</h2>
 
