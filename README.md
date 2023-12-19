@@ -1,4 +1,4 @@
-<h1>Hi, I'm Seyi! <br/><a href="https://github.com/richiejay">IT Professional</a>, <a href="https://www.linkedin.com/in/sheyitaiwo/">Aspiring Cybersecurity Specialist!</a></h1>
+<h1>Hi, I'm Seyi! <br/><a href="https://github.com/seyitaiwo">IT Professional</a>, <a href="https://www.linkedin.com/in/sheyitaiwo/">Aspiring Cybersecurity Specialist!</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
